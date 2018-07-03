@@ -1,0 +1,3 @@
+#This is a centralized collection of Arduino-related projects and misc resources#
+
+yada, yada...
